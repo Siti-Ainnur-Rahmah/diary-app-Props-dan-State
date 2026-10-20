@@ -2,7 +2,7 @@
 
 * **Nama:** Siti Ainnur Rahmah
 * **NIM:** 2430511050
-* **Mata Kuliah:** 
+* **Mata Kuliah:** Mobile Multi Platform 
 * **Program Studi:** Teknik Informatika, Universitas Muhammadiyah Sukabumi
 * **Kelas:** 5B
 
